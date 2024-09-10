@@ -19,9 +19,15 @@ header{
 .lognamenimg {
 display: flex;
 align-items: center;
+margin-right: 5px;
 
 }
 
+.lognamenimg a {
+    margin-right: 10px;
+white-space: nowrap;
+
+}
 .sitename{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
@@ -67,7 +73,9 @@ header a {
     margin-right: 20px;
     position: relative;
     justify-content: center;
-    }
+    white-space: nowrap;
+
+}
 
 
 .side-bar{
@@ -104,3 +112,15 @@ header a {
     font-weight: 600;
 }
  
+footer{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    bottom: 0;
+    background-color: brown;
+    height: 50px;
+    color: rgb(196, 144, 144);
+}
+
