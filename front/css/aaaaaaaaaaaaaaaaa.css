@@ -79,7 +79,7 @@ header a {
 
 
 .side-bar{
-        background-color: rgba(140, 171, 79, 0.573);
+        background-color: rgba(177, 228, 219, 0.573);
         position: fixed;
 
         top: 50px;
@@ -99,7 +99,7 @@ header a {
 }
 .sitem{
     padding: 10px 20px ;
-    background-color: rgb(162, 162, 225);
+    background-?: rgb(162, 162, 225);
     margin-top: 10px;
 }
 
